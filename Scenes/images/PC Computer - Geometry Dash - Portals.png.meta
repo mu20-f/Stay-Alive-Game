@@ -1,0 +1,2136 @@
+fileFormatVersion: 2
+guid: 7f4a884b2d77e794e96740a607aeea57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3586202522962888886
+    second: PC Computer - Geometry Dash - Portals_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b800d1b130c4c130800000000000000
+      internalID: 3586202522962888886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc74bdf7a4269304e9f86dfd7331ce7c
+      internalID: -1559014888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_2
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be5afc07f0aac249b3446c0c1114cb7
+      internalID: -1657931802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_3
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5ac8dfa88faee45af6cc5aa8432d8b
+      internalID: -200784782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_4
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1854
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0191fcc2ee269de49be823610cba8e9c
+      internalID: -1083751341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_5
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1865
+        width: 252
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9cb914f30da1b459dc5b47a5539d5d
+      internalID: 1613988329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_6
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1865
+        width: 150
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bbcaf2991e8074696ac7cd291adf45
+      internalID: 2100115794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_7
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f42a4b250341c49a1a3c2d83ca2dff
+      internalID: 1212647470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_8
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1842
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e1d7749f4a7e142bb87c991795a884
+      internalID: -253451889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb7b8e972c1c7b40aa6df4e09276ee9
+      internalID: 674786217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_10
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbb2964f62b7b44fafebe1624c9739e
+      internalID: 303016136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_11
+      rect:
+        serializedVersion: 2
+        x: 2301
+        y: 1854
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64345d24ff6724e4fbddbcb5dbcefdc1
+      internalID: 1033330215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_12
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f43ba82745b814b985bc7c9232d425
+      internalID: -1751667811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_13
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82223d3637c17d54e96207a77bc72770
+      internalID: -1379374182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_14
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 1814
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e84c8f3d58d98469739a22c9f22378
+      internalID: -353661358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_15
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d255a4bb65089244d91a3d2e900db3bf
+      internalID: 874419903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_16
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1865
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5351193dcd2ec8447a49f6e13fbcd9c2
+      internalID: -1205058395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_17
+      rect:
+        serializedVersion: 2
+        x: 3552
+        y: 1837
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0269085593cd136408c05713caea84c4
+      internalID: 1061738285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bef7d2dc541ba4cb215dcb80062108
+      internalID: 1345244484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_19
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1292
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51586389dcc2549bdcab489d4fb9d9
+      internalID: 1169848046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_20
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9186219bf37fcd4a91ea2443ddc8e4f
+      internalID: -1789145164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_21
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c0e6289c4e094189c1873b5f2f1e3
+      internalID: -96006783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_22
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddb3371bba687c48b79cc69778d4027
+      internalID: 583893120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_23
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cef940dacc185e41862a8c4fe94b054
+      internalID: 1082396692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_24
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1298
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8af1ef3bc5bf0408082f2a0d7b09b7
+      internalID: 1147217913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_25
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be2f4cd7fb693d4d93416ebeedb67dd
+      internalID: 448204441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_26
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1079f9364b36f4a8fed5e8b88a716c
+      internalID: -1982970798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_27
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf05bf4589ec144985bdbd0d095f135
+      internalID: -484555914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_28
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a5797e96d30f94e9e6959b18d665bc
+      internalID: -2104289740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_29
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079ec4de7bf1893409fee07217574889
+      internalID: 1673725246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_30
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c351e2c70e20f48a18843d0a38e583
+      internalID: -815301745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_31
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc46ad7ffb12045b8b9112360cfead
+      internalID: 254635966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_32
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609e60c0aefc0dc499686453ee18f8f5
+      internalID: 1110243079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_33
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3ae9d5b2679904698eca06b083f2d4
+      internalID: 399754199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_34
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1489a3df2a267d41b508bc715dac467
+      internalID: -82247675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_35
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 1450
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a88dc3e0f071048892f3a82182c745
+      internalID: -65833350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1968df7bfdd6efe40ba4f32615e73412
+      internalID: -85730829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_37
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ecfb715aca5ff47b0c188474438278
+      internalID: -1740098420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430fcb68df181764abf7774fa405c22a
+      internalID: 1449533561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_39
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf470056b5a6b3349a2784dffa7a504c
+      internalID: 928458293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_40
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309d242c78447064c952929fdd34a15d
+      internalID: -1105046575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_41
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a580ffe86b842964a9f2196fd836f2ca
+      internalID: 1597398651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_42
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725d4859d9c7b94488c7f68f81a95bd
+      internalID: 747696636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_43
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56f54371b284d248bd6a154f0a5afcf
+      internalID: -1526524007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_44
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef033b478fc7d24385c6fb76ef1655c
+      internalID: -723979172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_45
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be89934aae72c6348b60036c6fcd5803
+      internalID: 706151891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_46
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc29de08cc3ecc4784005a010233464
+      internalID: -1279043717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_47
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc9c66ba2cffb241ae54491cf9ec1a8
+      internalID: 829336620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_48
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b50c9bcfe197aa4db597993a022d493
+      internalID: 1220536308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_49
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4d551d1bc44de4bbbad44f14a827e2
+      internalID: 367515124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_50
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ae8cd479d8df04697e744642ab882b
+      internalID: -1171892090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_51
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e497867beec22494e89b2e9b6ab62b3d
+      internalID: -1350888808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_52
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ced7d3950dcf10479ff3fb1d10f0309
+      internalID: -1107025900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_53
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 1035
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b58a1d5f1c18c24e95ebbdd0f15c215
+      internalID: 640328206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fb4396932a30c41ae0c78303f9eeb3
+      internalID: 1005768174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_55
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6755f893d986d4a83cb7686b410e9f
+      internalID: -311446919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_56
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e977e39bb39f34245a9b946dfe8e10b8
+      internalID: -1240717341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_57
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab9c7366ee11b48bf486df236e945d
+      internalID: -2137891793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_58
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28036d69714edc14b8f41274a69e642a
+      internalID: -1160672816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_59
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf1c01e23abab74e8bdef6fb1494a74
+      internalID: 1288110747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_60
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b0a682d93b4a8429c29503452773c6
+      internalID: -1422982345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_61
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42095842ec90a464c8ea798f2ecf588d
+      internalID: -183536476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_62
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c64bbdad634bb41b92faaf558c2ad3
+      internalID: -1780735530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_63
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c3cc223af2ea947a33aba57e9c2867
+      internalID: 1957536741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_64
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b0d585d449053469a92343139be54d
+      internalID: -747711200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_65
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33ceff74bff55e42b28006fab378630
+      internalID: 2120253039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_66
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20e9cb92219caf49a22830653b0307d
+      internalID: -1401738538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_67
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37109ab07d58710478f9dcb791b29d36
+      internalID: -534368574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_68
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de2fa2c37ebba6438f8be7d886dc263
+      internalID: 1416146129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_69
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01ffa54334ebeb438e29c02c8333f16
+      internalID: 571874922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_70
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75adfa1f089189c498a6c3a7b7d71be8
+      internalID: 740944725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_71
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 620
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bf485bb19420b4ca09c1c3f2aec924
+      internalID: -1738581964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352d2c54600687d4a9ba6599cf233553
+      internalID: 831286215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_73
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfee02dda3fd164aae41512e86a75aa
+      internalID: 1137359644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_74
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cacf924a0de7974685aa74ee37d496a
+      internalID: -645401909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_75
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63dde41de416a744b8a48b8bcf71109
+      internalID: 1829979499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_76
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33193a9aec62ca54680ddaa7013765f6
+      internalID: -1760662089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_77
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf7e6e2b010f0e408a6a65913938078
+      internalID: 262148480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_78
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833eb5a9576e0c54883e8b0bdad4decc
+      internalID: -1466712352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_79
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfe3b38fc877fd42808a008afa922a4
+      internalID: -730353481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_80
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608a614fda202da4fa79fa969f0b6f7d
+      internalID: -1150651279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_81
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f207cde8f55173b47b0c176caf211bae
+      internalID: 151242117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_82
+      rect:
+        serializedVersion: 2
+        x: 2010
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a0e025bdaba049a32dfa1a1f1e7dc
+      internalID: 1997944633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_83
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d34226fe6d6c74faad19d49b2dbe55
+      internalID: -1540638276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_84
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d720ae6ae18933b47aa578700d75f817
+      internalID: -274039332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_85
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf359f5c0adc5b44921052f6a9de1dc
+      internalID: -1128835874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_86
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1211b6402da3b41b036168a2e6e190
+      internalID: -1981990381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_87
+      rect:
+        serializedVersion: 2
+        x: 3015
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c9e46472c539e4bad925f8ca121d19
+      internalID: -736276190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_88
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73ada36901c3a40ad0bed71c50101e
+      internalID: -1047406561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Geometry Dash - Portals_89
+      rect:
+        serializedVersion: 2
+        x: 3417
+        y: 205
+        width: 201
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a5a3a270060e4f961b2d2b8605612
+      internalID: 1129114191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Geometry Dash - Portals_0: 3586202522962888886
+      PC Computer - Geometry Dash - Portals_1: -1559014888
+      PC Computer - Geometry Dash - Portals_10: 303016136
+      PC Computer - Geometry Dash - Portals_11: 1033330215
+      PC Computer - Geometry Dash - Portals_12: -1751667811
+      PC Computer - Geometry Dash - Portals_13: -1379374182
+      PC Computer - Geometry Dash - Portals_14: -353661358
+      PC Computer - Geometry Dash - Portals_15: 874419903
+      PC Computer - Geometry Dash - Portals_16: -1205058395
+      PC Computer - Geometry Dash - Portals_17: 1061738285
+      PC Computer - Geometry Dash - Portals_18: 1345244484
+      PC Computer - Geometry Dash - Portals_19: 1169848046
+      PC Computer - Geometry Dash - Portals_2: -1657931802
+      PC Computer - Geometry Dash - Portals_20: -1789145164
+      PC Computer - Geometry Dash - Portals_21: -96006783
+      PC Computer - Geometry Dash - Portals_22: 583893120
+      PC Computer - Geometry Dash - Portals_23: 1082396692
+      PC Computer - Geometry Dash - Portals_24: 1147217913
+      PC Computer - Geometry Dash - Portals_25: 448204441
+      PC Computer - Geometry Dash - Portals_26: -1982970798
+      PC Computer - Geometry Dash - Portals_27: -484555914
+      PC Computer - Geometry Dash - Portals_28: -2104289740
+      PC Computer - Geometry Dash - Portals_29: 1673725246
+      PC Computer - Geometry Dash - Portals_3: -200784782
+      PC Computer - Geometry Dash - Portals_30: -815301745
+      PC Computer - Geometry Dash - Portals_31: 254635966
+      PC Computer - Geometry Dash - Portals_32: 1110243079
+      PC Computer - Geometry Dash - Portals_33: 399754199
+      PC Computer - Geometry Dash - Portals_34: -82247675
+      PC Computer - Geometry Dash - Portals_35: -65833350
+      PC Computer - Geometry Dash - Portals_36: -85730829
+      PC Computer - Geometry Dash - Portals_37: -1740098420
+      PC Computer - Geometry Dash - Portals_38: 1449533561
+      PC Computer - Geometry Dash - Portals_39: 928458293
+      PC Computer - Geometry Dash - Portals_4: -1083751341
+      PC Computer - Geometry Dash - Portals_40: -1105046575
+      PC Computer - Geometry Dash - Portals_41: 1597398651
+      PC Computer - Geometry Dash - Portals_42: 747696636
+      PC Computer - Geometry Dash - Portals_43: -1526524007
+      PC Computer - Geometry Dash - Portals_44: -723979172
+      PC Computer - Geometry Dash - Portals_45: 706151891
+      PC Computer - Geometry Dash - Portals_46: -1279043717
+      PC Computer - Geometry Dash - Portals_47: 829336620
+      PC Computer - Geometry Dash - Portals_48: 1220536308
+      PC Computer - Geometry Dash - Portals_49: 367515124
+      PC Computer - Geometry Dash - Portals_5: 1613988329
+      PC Computer - Geometry Dash - Portals_50: -1171892090
+      PC Computer - Geometry Dash - Portals_51: -1350888808
+      PC Computer - Geometry Dash - Portals_52: -1107025900
+      PC Computer - Geometry Dash - Portals_53: 640328206
+      PC Computer - Geometry Dash - Portals_54: 1005768174
+      PC Computer - Geometry Dash - Portals_55: -311446919
+      PC Computer - Geometry Dash - Portals_56: -1240717341
+      PC Computer - Geometry Dash - Portals_57: -2137891793
+      PC Computer - Geometry Dash - Portals_58: -1160672816
+      PC Computer - Geometry Dash - Portals_59: 1288110747
+      PC Computer - Geometry Dash - Portals_6: 2100115794
+      PC Computer - Geometry Dash - Portals_60: -1422982345
+      PC Computer - Geometry Dash - Portals_61: -183536476
+      PC Computer - Geometry Dash - Portals_62: -1780735530
+      PC Computer - Geometry Dash - Portals_63: 1957536741
+      PC Computer - Geometry Dash - Portals_64: -747711200
+      PC Computer - Geometry Dash - Portals_65: 2120253039
+      PC Computer - Geometry Dash - Portals_66: -1401738538
+      PC Computer - Geometry Dash - Portals_67: -534368574
+      PC Computer - Geometry Dash - Portals_68: 1416146129
+      PC Computer - Geometry Dash - Portals_69: 571874922
+      PC Computer - Geometry Dash - Portals_7: 1212647470
+      PC Computer - Geometry Dash - Portals_70: 740944725
+      PC Computer - Geometry Dash - Portals_71: -1738581964
+      PC Computer - Geometry Dash - Portals_72: 831286215
+      PC Computer - Geometry Dash - Portals_73: 1137359644
+      PC Computer - Geometry Dash - Portals_74: -645401909
+      PC Computer - Geometry Dash - Portals_75: 1829979499
+      PC Computer - Geometry Dash - Portals_76: -1760662089
+      PC Computer - Geometry Dash - Portals_77: 262148480
+      PC Computer - Geometry Dash - Portals_78: -1466712352
+      PC Computer - Geometry Dash - Portals_79: -730353481
+      PC Computer - Geometry Dash - Portals_8: -253451889
+      PC Computer - Geometry Dash - Portals_80: -1150651279
+      PC Computer - Geometry Dash - Portals_81: 151242117
+      PC Computer - Geometry Dash - Portals_82: 1997944633
+      PC Computer - Geometry Dash - Portals_83: -1540638276
+      PC Computer - Geometry Dash - Portals_84: -274039332
+      PC Computer - Geometry Dash - Portals_85: -1128835874
+      PC Computer - Geometry Dash - Portals_86: -1981990381
+      PC Computer - Geometry Dash - Portals_87: -736276190
+      PC Computer - Geometry Dash - Portals_88: -1047406561
+      PC Computer - Geometry Dash - Portals_89: 1129114191
+      PC Computer - Geometry Dash - Portals_9: 674786217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
