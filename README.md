@@ -6,3 +6,9 @@ It's my first game developed using the Unity engine, and it bears a resemblance 
 
 
 ### Note: this is first version I know it needs modifications and additions and have bugs, but in the future I will edit it and post it.
+
+
+##this is UI 
+![doc stay alive](https://github.com/mu20-f/Stay-Alive-Game/assets/159249321/23ebb66a-bee4-4755-85d4-8331388f645f)
+
+there are file named Stay Alive game play.html have gameplay and modes
